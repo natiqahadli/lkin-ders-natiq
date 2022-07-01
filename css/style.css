@@ -1,0 +1,50 @@
+.section1 {
+    background-color: lightgray;
+    width: 550px;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1 {
+    background-color: red;
+    width: 470px;
+    height: 470px;
+    position: absolute;
+    justify-content: center;
+    
+}
+.basliq {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 36px;
+    justify-content: center;
+}
+.basliq2 {
+    font-size: 20px;
+    color: white;
+
+}
+
+.div1 h6 {
+    color: white;
+    margin-top: 250px;
+}
+.div2 {
+    background-color: white;
+    width: 450px;
+    height: 225px;
+    padding-top: 0;
+    position: absolute;
+    top: 140px;
+    left: 10px;
+}
+.aginici {
+    color: red;
+    font-size: 22px;
+    
+}
+.agikinci {
+    
+}
